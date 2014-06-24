@@ -3,12 +3,11 @@ interview
 
 Coding Interview Problem + Solution + Guide
 
-#Problem + Solution
+### Problem + Solution
 
-These are some interview problem that I solved before
-(I am trying to clean up my comp dir, so moving everything to 1 place)
+These are some interview problem that I solved before. (I am trying to clean up my comp dir, so moving everything to 1 place)
 
-#Guide
+### Guide
 
 Some of the stuff (reading, website) that I find EXTREMELY useful to prepare for coding interview or just to improve your skill
 (ps. I haven't finish all of them)
